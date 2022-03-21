@@ -10,3 +10,6 @@ In this piece of coursework the task was to implement an iterative deepening dep
 
 ## Data Analysis Tool
 In this project, Python was used to manipulate datasets, conduct statistical analysis and allow the user to interact with the program and view information via a GUI.
+
+## Facial Expression Recognition CNN
+For my MSc dissertation I developed convolutional neural networks for facial expression recognition. The best-performing model demonstrated 64.22% accuracy on the FER-2013 dataset.
